@@ -13,7 +13,7 @@
 
 ## 🏃‍♂️ About Me
 * 🎓 **Software Engineering** and **AI** senior at Sungkonghoe University
-* ☁️ Aspiring **Cloud Engineer** (Studying for AWS SAA)
+* ☁️ Aspiring **Cloud Engineer** 
 * 🏋️ Love **Weight Training** 
 * 🎮 Enjoying **Minecraft**
 
