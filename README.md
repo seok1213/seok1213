@@ -8,10 +8,11 @@
 
 ## 🏆 Certifications
 
-### ☁️ Main Focus
-<a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/">
-  <img src="https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20--%20Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="40"/>
-</a>
+<p align="left">
+  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/Certified_Solutions_Architect_Associate.png" width="150" height="150" />
+  
+  <img src="https://img.shields.io/badge/ADsP-데이터분석%20준전문가-blue?style=for-the-badge&logo=databricks&logoColor=white" height="150" />
+</p>
 
 ## 🏃‍♂️ About Me
 * 🎓 **Software Engineering** **AI** senior at Sungkonghoe University
