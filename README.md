@@ -16,11 +16,22 @@
 * ✅ **ADsP (Advanced Data Analytics Semi-Professional)**
 
 ## 🏃‍♂️ About Me
-* 🎓 **Software Engineering** and **AI** senior at Sungkonghoe University
-* ☁️ Aspiring **Cloud Engineer** 
-* 🏋️ Love **Weight Training** 
-* 🎮 Enjoying **Minecraft**
-
+<table>
+  <tr>
+    <td md-style="vertical-align: middle;">
+      <h2>👋 Hello! I'm Seokhwan</h2>
+      <ul>
+        <li>🎓 <b>Software Engineering</b> and <b>AI</b> senior at Sungkonghoe University</li>
+        <li>☁️ Aspiring <b>Cloud Engineer</b></li>
+        <li>🏋️ Love <b>Weight Training</b></li>
+        <li>🎮 Enjoying <b>Minecraft</b></li>
+      </ul>
+    </td>
+    <td align="center" vertical-align="middle">
+      <img src="https://github.com/user-attachments/assets/366319c8-272f-443e-931a-53c8c3ad2a9b" width="180" />
+    </td>
+  </tr>
+</table>
 ## 💕 following
 <a href="https://leeggoong222.tistory.com/">
   <img src="https://img.shields.io/badge/Tistory-EB531F?style=for-the-badge&logo=Tistory&logoColor=white"/>
