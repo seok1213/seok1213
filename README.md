@@ -9,9 +9,9 @@
 ## 🏆 Certifications
 
 <p align="left">
-  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/Certified_Solutions_Architect_Associate.png" width="130" title="AWS Certified Solutions Architect – Associate"/>
+  <img src="https://raw.githubusercontent.com/vaxilu/vaxilu/master/aws-certified-solutions-architect-associate.png" width="130" />
   
-  <img src="https://img.shields.io/badge/ADsP-데이터분석%20준전문가-0061FF?style=for-the-badge&logo=databricks&logoColor=white" height="130" style="margin-bottom: 10px;" />
+  <img src="https://img.shields.io/badge/ADsP-Data%20Analysis-blue?style=for-the-badge&logo=analytics&logoColor=white" height="130" />
 </p>
 
 * ✅ **AWS Certified Solutions Architect – Associate (C03)**
