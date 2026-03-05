@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=C3D98A&height=280&section=header&text=Hi,%20there!%20👋&fontSize=70&fontColor=333333&animation=fadeIn&desc=seokhwan%27s%20github&descAlign=60&descFontSize=30" />
 
-<&fontSize=70&fontColor=333333&animation=fadeIn&desc=seokhwan%27s%20github&descAlign=60&descFontSize=30" />
-
 <p align="right">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat" width="50" /> 
   </p>
