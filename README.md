@@ -28,7 +28,7 @@
       </ul>
     </td>
     <td align="center" vertical-align="middle">
-      <img src="https://github.com/user-attachments/assets/366319c8-272f-443e-931a-53c8c3ad2a9b" width="180" />
+      <img width="205" height="246" alt="도라에몽사진" src="https://github.com/user-attachments/assets/2fb430b9-f129-486e-a734-df3040749672" />
     </td>
   </tr>
 </table>
