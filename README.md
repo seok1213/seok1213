@@ -9,10 +9,13 @@
 ## 🏆 Certifications
 
 <p align="left">
-  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/Certified_Solutions_Architect_Associate.png" width="150" height="150" />
+  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/Certified_Solutions_Architect_Associate.png" width="130" title="AWS Certified Solutions Architect – Associate"/>
   
-  <img src="https://img.shields.io/badge/ADsP-데이터분석%20준전문가-blue?style=for-the-badge&logo=databricks&logoColor=white" height="150" />
+  <img src="https://img.shields.io/badge/ADsP-데이터분석%20준전문가-0061FF?style=for-the-badge&logo=databricks&logoColor=white" height="130" style="margin-bottom: 10px;" />
 </p>
+
+* ✅ **AWS Certified Solutions Architect – Associate (C03)**
+* ✅ **ADsP (Advanced Data Analytics Semi-Professional)**
 
 ## 🏃‍♂️ About Me
 * 🎓 **Software Engineering** **AI** senior at Sungkonghoe University
