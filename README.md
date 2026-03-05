@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=C3D98A&height=250&section=header&text=welcome%20to%20seokhwan%27s%20github!&fontSize=50&fontColor=FFFFFF&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=C3D98A&height=280&section=header&text=Hi,%20there!%20👋&fontSize=70&fontColor=333333&animation=fadeIn&desc=seokhwan%27s%20github&descAlign=60&descFontSize=30" />
 
 ## 🛠 Studying..
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
